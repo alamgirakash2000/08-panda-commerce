@@ -22,3 +22,19 @@
 .cat{
     border-radius: 10px;
 }
+.card{
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card-footer{
+    background: #fff;
+    border-top: none;
+}
+#contact-us p{
+    color: gray;
+
+}
+.copywright{
+    text-align: center;
+    color: rgba(0, 0, 0, 0.726);
+}
